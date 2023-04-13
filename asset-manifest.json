@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37b33af0.css",
+    "main.js": "/static/js/main.f5d96d35.js",
+    "static/js/787.1acbbc77.chunk.js": "/static/js/787.1acbbc77.chunk.js",
+    "static/media/BG.jpg": "/static/media/BG.1ef1f798b4d97eb04f69.jpg",
+    "static/media/Resource.jpg": "/static/media/Resource.64856fa6e5a06b6fb04e.jpg",
+    "static/media/alipay.png": "/static/media/alipay.fb7960d688e287342a6f.png",
+    "static/media/logo.png": "/static/media/logo.381be44c645f70d94d07.png",
+    "static/media/VideoJS.eot": "/static/media/VideoJS.f72fc39ed5340b2def6b.eot",
+    "index.html": "/index.html",
+    "main.37b33af0.css.map": "/static/css/main.37b33af0.css.map",
+    "main.f5d96d35.js.map": "/static/js/main.f5d96d35.js.map",
+    "787.1acbbc77.chunk.js.map": "/static/js/787.1acbbc77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b33af0.css",
+    "static/js/main.f5d96d35.js"
+  ]
+}
